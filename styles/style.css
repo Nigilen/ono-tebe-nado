@@ -316,7 +316,7 @@
   transition-duration: 0.3s;
 }
 
-.footer__menu-link_active  {
+.footer__menu-link_active {
   text-decoration: none;
   cursor: default;
 }
@@ -334,7 +334,7 @@
 .footer__social-link {
   display: block;
   width: 48px;
-  height: 48px; 
+  height: 48px;
 }
 
 .footer__social-link-image {
