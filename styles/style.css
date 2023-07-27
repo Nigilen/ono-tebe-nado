@@ -16,7 +16,7 @@
 
 .header__links-list {
   display: flex;
-  gap: 30px;
+  gap: 31px;
   font-size: 18px;
   text-underline-offset: 5px;
   text-transform: lowercase;
@@ -24,9 +24,7 @@
   padding: 0;
 }
 
-.header__links-list-item:not(.header__links-list-item_no-bullit) {
-  padding-left: 2px;
-}
+
 
 .header__links-list-item_no-bullit {
   list-style: none;
@@ -43,6 +41,7 @@
 
 .adress a {
   text-underline-offset: 4px;
+  white-space: nowrap;
 }
 
 
@@ -152,15 +151,13 @@
 }
 
 .lots__card-list {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
   gap: 25px;
   margin-bottom: 30px;
   list-style: none;
   min-height: 450px;
+  flex-wrap: wrap;
 }
-
-
 
 .card-link {
   display: block;
@@ -176,6 +173,7 @@
   justify-content: space-between;
   gap: 30px;
   height: 100%;
+  width: 430px;
   padding: 50px 40px;
 }
 
