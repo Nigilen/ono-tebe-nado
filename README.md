@@ -1,10 +1,17 @@
 # Проектная работа «Оно тебе надо»
 
-**ОПИСАНИЕ**: Одностраничный сайт для отработки базовых навыков HTML и CSS
-**СТЕК**: HTML, CSS
+Одностраничный сайт для отработки базовых навыков HTML и CSS
 
-**ДЕПЛОЙ**: [ссылка](https://nigilen.github.io/ono-tebe-nado/)
-___
+![image](https://github.com/Nigilen/ono-tebe-nado/assets/38656496/fc2b98f5-854a-45c5-816a-3f3fc29a2e26)
+
+
+## Используемые технологии 
+- HTML
+- CSS
+
+## Деплой проекта
+
+[ссылка](https://nigilen.github.io/ono-tebe-nado/)
 
 
 ## Цели проектной работы
